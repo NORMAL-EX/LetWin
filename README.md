@@ -50,18 +50,9 @@ pnpm preview
 
 本项目使用 LetWin API 获取 Windows 镜像信息。
 
-API 文档：[API_DOCS.md](../API_DOCS.md)
-
 ## 作者
 
 - **作者**: dddffgg
-- **博客**: [https://blog.cloud-pe.cn/](https://blog.cloud-pe.cn/)
-
-## 友情链接
-
-- [dddffggの博客](https://blog.cloud-pe.cn/)
-- [Cloud-PE](https://cloud-pe.cn/)
-- [Cloud-PE云盘](https://pan.sysre.cn/)
 
 ## 许可证
 
