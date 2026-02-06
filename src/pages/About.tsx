@@ -105,7 +105,7 @@ export function About() {
                 rel="noopener noreferrer"
                 className="flex items-center text-primary hover:underline"
               >
-                Cloud-PE云盘
+                Cloud-PE 云盘
                 <ExternalLink className="ml-1 h-3 w-3" />
               </a>
             </div>

@@ -108,7 +108,7 @@ export function Layout() {
                 rel="noopener noreferrer"
                 className="hover:text-primary transition-colors"
               >
-                Cloud-PE云盘
+                Cloud-PE 云盘
               </a>
             </div>
             <div className="flex gap-4 justify-center">
